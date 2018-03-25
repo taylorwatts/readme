@@ -1,0 +1,58 @@
+#unicorn {
+	height: 97px;
+	width: 600px;
+	margin-top: 30px;
+	margin-left: 90px;
+	float: left;
+	margin-right: 70px;
+	left: 250px;
+	top: 110px;
+	z-index: 2;
+}
+#dragon {
+	height: 110px;
+	width: 115px;
+	margin-top: 130px;
+	margin-left: 220px;
+}
+#dove {
+	height: auto;
+	width: auto;
+	margin-left: 150px;
+	margin-top: 0px;
+}
+.box {
+	height: 800px;
+	width: 800px;
+	top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(castle.png);
+}
+#butterfly {
+	float: left;
+	margin-bottom: 0px;
+	z-index: 1;
+	margin-left: -150px;
+	margin-top: 20px;
+	margin-right: 0px;
+}
+#fary {
+	margin-left: 210px;
+	margin-top: 30px;
+}
+body {
+	background-image: url(ss133.gif);
+}
+#butterflycircle {
+	margin-top: 0px;
+	margin-left: 300px;
+}
+#everything {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
